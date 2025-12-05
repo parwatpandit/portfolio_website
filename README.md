@@ -5,6 +5,7 @@ The website showcases my skills, projects, and background in a clean and visuall
 
 
 
+
 ## Features
 - Fully responsive modern design  
 - Embedded CSS and JavaScript in one file  

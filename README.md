@@ -1,4 +1,9 @@
-# 🌐 Portfolio Website
+## Live Portfolio Website 
+https://parwatpandit.github.io/portfolio_website/
+
+![Portfolio Preview](image/preview.jpg)
+
+#  Portfolio Website
 
 This is my personal portfolio website created using **a single HTML file with embedded CSS and JavaScript**.  
 The website showcases my skills, projects, and background in a clean and visually appealing layout.
